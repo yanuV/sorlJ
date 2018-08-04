@@ -30,6 +30,7 @@ public class SolrJ_01 {
             System.out.println("id为"+result.get("id"));
             System.out.println("名字为"+result.get("product_name"));
             System.out.println("价格为"+result.get("product_price"));
+            System.out.println("测试更新"+result.get("product_price"));
         }
     }
 
