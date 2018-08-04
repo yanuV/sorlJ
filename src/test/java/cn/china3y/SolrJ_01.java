@@ -122,6 +122,7 @@ public class SolrJ_01 {
             boolean flag = product_name==product_nameHL?true:false;
             System.out.println(product_nameHL);
             System.out.println(flag);
+            System.out.println("程序颜B上爽了代码");
         }
 
 
