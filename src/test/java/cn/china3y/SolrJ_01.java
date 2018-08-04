@@ -123,6 +123,7 @@ public class SolrJ_01 {
             System.out.println(product_nameHL);
             System.out.println(flag);
             System.out.println("程序颜B上爽了代码");
+            System.out.println("c上传了带吗");
         }
 
 
